@@ -10,3 +10,7 @@ table.image  {
   margin-left: auto; 
   margin-right: auto; 
 }
+
+table.image  td  {
+  text-align:center; 
+}
